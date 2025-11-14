@@ -8,7 +8,7 @@
 This repository collects concise, practical explanations of core blockchain concepts. Intended as a study log and a small public portfolio showing fundamental understanding.
 A beginner-friendly repository covering the fundamentals of blockchain technology. Includes clear explanations of ledgers, hashing, blocks, nodes, wallets, consensus mechanisms, transactions, and real-world use cases. Perfect for learners starting their blockchain journey.
 
-## Day 1 — Summary
+## Daily — Summary
 Today I organized core concepts learned from videos and notes. The goal was to convert scattered topics into a structured study repository.
 
 ### Topics covered (short definitions)
