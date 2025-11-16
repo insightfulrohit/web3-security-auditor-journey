@@ -17,26 +17,26 @@ The signed transaction is **broadcast** to the blockchain network
 ⬇️  
 All connected **nodes receive** the transaction request  
 ⬇️  
-Nodes perform basic checks (balance, signature, format, previous history) 
+Nodes perform basic checks (balance, signature, format, previous history)  
 ⬇️  
 If valid, the transaction is placed into the **mempool** (waiting area)  
-⬇️
+⬇️  
 Miners/Validators pick this and other transactions from the mempool  
-⬇️
+⬇️  
 They create a **new candidate block** containing these transactions  
-⬇️
+⬇️  
 Consensus happens  
 - In **Proof of Work**, miners solve a puzzle  
 - In **Proof of Stake**, validators are selected to approve the block  
-⬇️
+⬇️  
 The block that wins consensus is **broadcast** to the entire network  
-⬇️
+⬇️  
 Nodes verify the new block and add it to their local blockchain copy  
-⬇️
+⬇️  
 The transaction becomes part of the chain  
-⬇️
+⬇️  
 Other blocks get added on top → giving **confirmations**  
-⬇️
+⬇️  
 Once enough confirmations are received →  
 **The transaction is considered final!**
 
@@ -59,3 +59,5 @@ Let’s say **Alice wants to send 2 BTC to Bob**.
 9. After 6 confirmations, the network agrees it is final.
 
 **Bob now officially owns 2 BTC.**
+
+---
