@@ -31,4 +31,5 @@ Together, we'll learn enough to land a good job. I'll be uploading all my stuff 
 _Note_: This is just an overview topic, we will go ahead and understand it in a better way in the future repositories.
 
 Let's Connect : https://www.linkedin.com/in/insightfulrohit/
-<img width="500" height="500" alt="Let&#39;s Connect LikedIn" src="https://github.com/user-attachments/assets/049f0e85-5fe5-478d-a5a2-e6ff90daa0dc" />
+
+<img width="350" height="500" alt="Let&#39;s Connect LikedIn" src="https://github.com/user-attachments/assets/049f0e85-5fe5-478d-a5a2-e6ff90daa0dc" />
