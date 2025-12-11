@@ -52,7 +52,7 @@ Install required Python modules: **_pip install <module_name>_**
 <img width="1448" height="426" alt="image" src="https://github.com/user-attachments/assets/9568dd74-dc17-481f-bd72-67cf0feabb9a" />
 
 
-5.Again run the file _python downloader.py_ and enter the topic name
+5.Again run the file **_python downloader.py_** and enter the topic name
 
 
 <img width="1021" height="162" alt="image" src="https://github.com/user-attachments/assets/4ed85957-11e7-499c-b3b6-54d808012b97" />
@@ -68,7 +68,10 @@ Install required Python modules: **_pip install <module_name>_**
 
 <img width="1903" height="485" alt="image" src="https://github.com/user-attachments/assets/a66d126c-2532-4f43-bc6b-b6a6678da4e4" />
 
+<img width="1478" height="723" alt="image" src="https://github.com/user-attachments/assets/4d9a0898-bf51-417d-ae76-125994f41ef9" />
+
+
 ##
 Note: _If you want to cancel the process simply press ctrl+c_
 
-Thank You !! Happy Learning
+**Thank You !! Happy Learning**
