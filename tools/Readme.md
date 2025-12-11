@@ -1,5 +1,8 @@
 # 📚 ArXiv Research Paper Downloader (Python)
 
+<img width="1536" height="1024" alt="tool_image" src="https://github.com/user-attachments/assets/6a80a754-d62c-45ef-9679-dcdb3b22e065" />
+
+
 A simple, clean, and reliable Python script to **automatically search and download research papers from arXiv** based on any topic you enter.
 
 ✔ Downloads up to **20 unique papers**  
@@ -60,7 +63,7 @@ Install required Python modules: **_pip install <module_name>_**
 <img width="1182" height="725" alt="image" src="https://github.com/user-attachments/assets/4cf06a8b-b46f-4b5b-9170-df1d91634122" />
 
 
-##
+
 7. Done !!!
 
 <img width="1903" height="485" alt="image" src="https://github.com/user-attachments/assets/a66d126c-2532-4f43-bc6b-b6a6678da4e4" />
