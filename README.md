@@ -1,10 +1,10 @@
 # Blockchain Basics
 
 **Author:** Insightfulrohit  
-**Date:** 2025-11-12  
+**Date:** 2026-06-30  
 **Repo:** Web3 Smart Contract Security — Auditor Journey
 
-This is my journey where i'm learning Blockchain(web3). Every day, along with my job, I take out some time to learn blockchain.
+This is my journey where i'm learning Blockchain(web3). Along with my job, I take out some time to learn blockchain.
 The agenda of this repo is that I will keep uploading here whatever I learn every day so that you can also refer to it.
 The things mentioned below will gradually be available to you in this repository.
 
