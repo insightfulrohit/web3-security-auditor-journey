@@ -1,4 +1,4 @@
-# Blockchain Basics
+# My Journey
 
 **Author:** Insightfulrohit  
 **Date:** 2026-06-30  
